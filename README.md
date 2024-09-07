@@ -1,6 +1,6 @@
 # Personal website & portfolio
 
-The website can be found at [albertonietos.github.io](albertonietos.github.io).
+The website can be found at [albertonietos.github.io](https://albertonietos.github.io/).
 
 This repository includes the source code for my personal website. 
 
